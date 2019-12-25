@@ -1,0 +1,3 @@
+com\lovnx\RibbonApplication.class
+com\lovnx\web\ConsumerController.class
+com\lovnx\web\RedisConfig.class
